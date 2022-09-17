@@ -6,7 +6,7 @@ First make sure [Node](https://nodejs.org/en/) is installed in your system.
 Clone the project
 
 ```bash
-  git clone https://github.com/DJ081/search-github-user.git
+  git clone https://github.com/DJ081/e-commerce-furniture-store.git
 ```
 
 Then open project directory
