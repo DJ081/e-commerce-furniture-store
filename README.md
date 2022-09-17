@@ -1,22 +1,26 @@
-## Notes
+# Comfy Sloth- e-commerce website
+## Run Locally
 
-#### Older React Version
+First make sure [Node](https://nodejs.org/en/) is installed in your system.
 
-```
-"react": "^16.13.1",
-"react-dom": "^16.13.1",
-"react-scripts": "3.4.3",
-```
+Clone the project
 
-#### Current React Version
-
-```
-"react": "^17.0.1",
-"react-dom": "^17.0.1",
-"react-scripts": "4.0.0",
+```bash
+  git clone https://github.com/DJ081/search-github-user.git
 ```
 
-#### Alternative fix
+Then open project directory
 
-.env file in the root
-FAST_REFRESH=FALSE
+## Install dependencies
+
+Run the following command to install dependencies
+
+```bash
+  npm install
+```
+
+After successfully installing the dependencies run the following to start web app
+
+```bash
+  npm start
+```
